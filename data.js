@@ -46,13 +46,13 @@ var APP_DATA = {
           "yaw": 1.3143985530221478,
           "pitch": 0.04512935216146374,
           "title": "VisCom1",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1Q-oVOqOR6RNnNHnYXgs_xO8HnpXffpls/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": 2.42484642350413,
           "pitch": 0.04738124048525094,
           "title": "VisCom2",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1sDgjYGciQtv-BDU5TGLugCr13x1mI_Cm/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": 0.20051123773825452,
