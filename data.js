@@ -24,41 +24,53 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 1.5854191978345344,
-        "pitch": 0.2551249367363351,
-        "fov": 1.2933824216075565
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": -1.0297783268954621,
-          "pitch": 0.05525934479122441,
-          "title": "VisCom4",
-          "text": '<iframe src="https://drive.google.com/file/d/1mpQxjj9PhR4zuRfsLmCO9j_BqAMrj6WT/preview" width="640" height="480"></iframe>'
+          "yaw": 1.2979928408131958,
+          "pitch": 0.039673790003728726,
+          "title": "Courses",
+          "text": "Text"
         },
         {
-          "yaw": -2.72263992932751,
-          "pitch": 0.0014862895427949496,
-          "title": "VisCom3",
-          "text": '<iframe src="https://drive.google.com/file/d/1Tm81IjbCMqqQwiQjaJ7BoRVqVa9tqgbe/preview" width="640" height="480"></iframe>'
+          "yaw": 2.416265602365666,
+          "pitch": 0.04252392218092105,
+          "title": "TSA",
+          "text": "Text"
         },
         {
-          "yaw": 1.3143985530221478,
-          "pitch": 0.04512935216146374,
-          "title": "VisCom1",
-          "text": '<iframe src="https://drive.google.com/file/d/1Q-oVOqOR6RNnNHnYXgs_xO8HnpXffpls/preview" width="640" height="480"></iframe>'
+          "yaw": -2.726750477348702,
+          "pitch": -0.006473525788956991,
+          "title": "Projects",
+          "text": "Text"
         },
         {
-          "yaw": 2.42484642350413,
-          "pitch": 0.04738124048525094,
-          "title": "VisCom2",
-          "text": '<iframe src="https://drive.google.com/file/d/1sDgjYGciQtv-BDU5TGLugCr13x1mI_Cm/preview" width="640" height="480"></iframe>'
+          "yaw": -1.0196153321143893,
+          "pitch": 0.0010840851534688056,
+          "title": "Technology",
+          "text": "Text"
         },
         {
-          "yaw": 0.20051123773825452,
-          "pitch": 0.08477991781941441,
-          "title": "VisCom5",
-          "text": '<iframe src="https://drive.google.com/file/d/1FIc0zoItCnaFhf8bGYETWla7DoAR47zc/preview" width="640" height="480"></iframe>'
+          "yaw": 0.04543595640178566,
+          "pitch": -0.004696652167131887,
+          "title": "LAUNCH",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.3821965836003614,
+          "pitch": 0.6208005405638559,
+          "title": "Introduction",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.4361012510686386,
+          "pitch": 0.006753445854315032,
+          "title": "Why VisCom?",
+          "text": "Text"
         }
       ]
     }
