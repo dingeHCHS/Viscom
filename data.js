@@ -34,13 +34,13 @@ var APP_DATA = {
           "yaw": -1.0297783268954621,
           "pitch": 0.05525934479122441,
           "title": "VisCom4",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1mpQxjj9PhR4zuRfsLmCO9j_BqAMrj6WT/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -2.72263992932751,
           "pitch": 0.0014862895427949496,
           "title": "VisCom3",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1Tm81IjbCMqqQwiQjaJ7BoRVqVa9tqgbe/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": 1.3143985530221478,
@@ -58,7 +58,7 @@ var APP_DATA = {
           "yaw": 0.20051123773825452,
           "pitch": 0.08477991781941441,
           "title": "VisCom5",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1FIc0zoItCnaFhf8bGYETWla7DoAR47zc/preview" width="640" height="480"></iframe>'
         }
       ]
     }
